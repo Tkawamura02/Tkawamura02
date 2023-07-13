@@ -8,4 +8,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love learning pretty much anything! I am that person who knows the randomnest facts of every topic
 
-[![Tiffany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tkawamura02)](https://github.com/Tkawamura02/github-readme-stats)
+<!-- [![Tiffany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tkawamura02)](https://github.com/Tkawamura02/github-readme-stats) -->
